@@ -11,8 +11,6 @@ DEBUG = False
 ALLOWED_HOSTS = ["127.0.0.1", "localhost", "wadss.zapto.org"]
 
 
-# Application definition
-
 INSTALLED_APPS = [
     "api.apps.ApiConfig",
     "django.contrib.admin",
